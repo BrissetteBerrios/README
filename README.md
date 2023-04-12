@@ -1,4 +1,4 @@
-# Hello! I am Brissette. A Big Data Specialist with a scientific and business background. 
+# Hello! I am Brissette. A Big Data Analyst with a scientific and business background. 
 Here I share some of my projects. Have fun! 
 
 You can contact me : brissettembt@gmail.com 
